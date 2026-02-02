@@ -19,6 +19,7 @@ This project automates manual Excel-based reporting using Python and SQL.
 1. Install required libraries
 2. Configure email settings in config.ini
 3. Run `python generate_report.py`
+4. Email is disabled by default (send_email = False).
 
 ## Use Case
 Designed for internship-level automation of repetitive Excel reporting tasks.
